@@ -42,9 +42,19 @@ Estilos da página index.hmtl
 }
 .tm-social {
     width: 50px;
-    height: 50px;
+    height: 50px; 
+
+}
+.ml-50{
+    margin-left: 50px;
 }
 
 /*
 Estilos da página contato.hmtl
 */
+.container-contato{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
